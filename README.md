@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
 
-[zip file](https://github.com/parsiad/mlinterp/archive/v0.1.zip)
 
 You can use the [editor on GitHub](https://github.com/ChrissaK/test_site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
